@@ -1,5 +1,7 @@
 package Programmers.Lv_2.최댓값과_최솟값_12939;
 
+import java.util.Arrays;
+
 class Solution {
     public String solution(String s) {
         String[] arr = s.split(" ");
