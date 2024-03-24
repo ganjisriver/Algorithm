@@ -1,7 +1,7 @@
 # [Level.2] 영어 끝말잇기 12981
 
 ## 문제 유형
-- 문자열
+- 문자열, 구현
 
 ## 문제 링크
 https://school.programmers.co.kr/learn/courses/30/lessons/12981
